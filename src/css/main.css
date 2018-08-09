@@ -1,14 +1,123 @@
-/*
-  You can use import statements to include partials:
- */
-@import "imports/reset.css";
+.single-blog-header {
+  background: url('/images/new-design/blog1.png') center no-repeat;
+  height: 600px;
+  padding-left: 0;
+  background-size: cover;
+  position: relative;
+}
 
+.single-blog-header-bottom {
+  height: 168px;
+  width: 100%;
+  background-color: rgba(51,51,51,0.5);
+  position: absolute;
+  bottom: 0;
+  padding: 0 5%;
+}
 
-/*
-  Or add your statements here:
- */
-body{
-  font-family: sans-serif;
-  font-size: 1em;
-  text-align: center;
+.single-blog-date {
+  color: #FFFFFF;
+}
+
+.single-blog-title {
+  font-size: 40px;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+.blog-container {
+  background-color: #6D9B97;
+  padding: 6% 11%;
+}
+
+.blog-container-title {
+  color: #FFFFFF;
+  margin-bottom: 50px;
+  font-weight: 500;
+}
+
+.blog-container-btn {
+  display: flex;
+  margin-top: 52px;
+}
+
+.btn-view-more {
+  background-color: white;
+  color: #6D9B97;
+  font-weight: 600;
+}
+
+.blog-page-container {
+  background-color: #f7f7f7;
+  padding: 9% 11%;
+}
+
+.blog-page-title {
+  color: #666666;
+  font-weight: bold;
+  margin-bottom: 10%;
+}
+
+.blog-header {
+  background: url('/images/new-design/blog-header.png') center;
+  height: 380px;
+}
+
+.blog-card-horizontal-date {
+  margin-left: 20px;
+  border-color: blue;
+}
+
+.horizontal-card-image {
+  padding: 0;
+}
+
+.blog-card-horizontal-img {
+  vertical-align: middle;
+  border-style: none;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.blog-card-horizontal-container {
+  background-color: #00ACA2;
+}
+
+.blog-card-horizontal-container-white {
+  background-color: #FFFFFF;
+}
+
+.blog-card-horizontal-title {
+  color: #FFFFFF;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.blog-card-horizontal-title-white {
+  color: #666666;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.blog-card-horizontal-txt {
+  color: #FFFFFF;
+  font-size: 15px;
+}
+
+.blog-card-horizontal-txt-white {
+  color: #666666;
+  font-size: 15px;
+}
+
+.blog-card-horizontal-btn {
+  margin-bottom: 3%;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.blog-card-horizontal-btn-white {
+  margin-bottom: 3%;
+  color: #666666;
+  font-weight: bold;
 }
