@@ -1,7 +1,7 @@
 {{ $pag := $.Paginator }}
 {{ if gt $pag.TotalPages 1 }}
 
-<div style="width: 20%;margin: auto;">
+<div class="custom-pagination justify-content-center">
     <ul class="pagination">
         {{ with $pag.First }}
         <li class="page-item">

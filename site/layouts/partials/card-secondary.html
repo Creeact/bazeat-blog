@@ -12,9 +12,9 @@
                 <h4 class="card-title blog-card-horizontal-title-white">
                     {{ .Title }}
                 </h4>
-                    <p class="card-text blog-card-horizontal-txt">{{ .Content | truncate 300 }}</p>
+                    <span class="card-text blog-card-horizontal-txt-white">{{ .Content | truncate 300 }}</span>
                     <div>
-                    <a class="btn float-right blog-card-horizontal-btn-white" href="{{ .Permalink }}">
+                    <a class="btn float-right blog-card-horizontal-btn-white custom-link-white" href="{{ .Permalink }}">
                         Read more &gt;
                     </a>
                     </div>
