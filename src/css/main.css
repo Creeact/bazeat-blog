@@ -72,7 +72,8 @@
 }
 
 .horizontal-card-image {
-  padding: 0;
+    padding: 0;
+    height: 320px;
 }
 
 .blog-card-horizontal-img {
