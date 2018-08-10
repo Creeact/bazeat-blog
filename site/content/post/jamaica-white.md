@@ -1,11 +1,7 @@
 ---
-title: 'Jamaica title 3'
-date: 2017-01-05
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
-slug: jamaica-white
-featuredimg: "uploads/blog1.png"
+title: Jamaica title 3
+featuredimg: /uploads/220px-ancic_mario.jpg
+date: 2017-01-05T00:00:00.000Z
 ---
 
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
