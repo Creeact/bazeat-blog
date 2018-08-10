@@ -9,6 +9,6 @@ title = "Bazeat blog"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
-  baseURL = "https://tender-joliot-0e6b69.netlify.com"
+  baseURL = "https://blogg.bazeat.no"
   staticsURL = "https://bazeat.com"
   baseSiteURL = "https://bazeat.com"
