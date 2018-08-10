@@ -2,15 +2,12 @@
 {{ if gt $pag.TotalPages 1 }}
 
 <div class="custom-pagination justify-content-center">
-    <ul class="pagination">
+    <ul class="pagination" style="padding-left: unset; justify-content: center">
         {{ with $pag.First }}
-        <li class="page-item">
-            <a class="page-link" href="{{ .URL }}" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
-        </li>
         {{ end }}
         <li class="page-item"
                 {{ if not $pag.HasPrev }}class="disabled"{{ end }}>
-            <a class="page-link" href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+            <a class="page-link" href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Previous"><span aria-hidden="true">Prev</span></a>
         </li>
         {{ $.Scratch.Set "__paginator.ellipsed" false }}
         {{ range $pag.Pagers }}
@@ -33,12 +30,12 @@
         {{ end }}
         <li class="page-item"
                 {{ if not $pag.HasNext }}class="disabled"{{ end }}>
-            <a class="page-link" href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+            <a class="page-link" href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next"><span aria-hidden="true">Next</span></a>
         </li>
         {{ with $pag.Last }}
-        <li class="page-item">
-            <a class="page-link" href="{{ .URL }}" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
-        </li>
+        <!--<li class="page-item">-->
+            <!--<a class="page-link" href="{{ .URL }}" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>-->
+        <!--</li>-->
         {{ end }}
     </ul>
     {{ end }}

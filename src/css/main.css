@@ -1,5 +1,4 @@
 .single-blog-header {
-  background: url('/images/new-design/blog1.png') center no-repeat;
   height: 600px;
   padding-left: 0;
   background-size: cover;
@@ -7,10 +6,13 @@
 }
 
 .single-blog-header-bottom {
+  position: absolute;
+  float: left;
+  z-index: 1000;
+  left: 0;
   height: 168px;
   width: 100%;
-  background-color: rgba(51,51,51,0.5);
-  position: absolute;
+  background-color: rgba(51, 51, 51, 0.5);
   bottom: 0;
   padding: 0 5%;
 }
@@ -50,6 +52,7 @@
 .blog-page-container {
   background-color: #f7f7f7;
   padding: 9% 11%;
+  max-width: 100%;
 }
 
 .blog-page-title {
@@ -183,4 +186,5 @@ li.page-link:last-child {
   outline: 0;
   box-shadow: none !important;
 }
+
 

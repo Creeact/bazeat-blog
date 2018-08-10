@@ -1,12 +1,19 @@
 {{ define "main" }}
 
-<div style="width: 70%; margin: auto;">
-    <h1>{{ .Title }}</h1>
-    <h3>{{ .Date.Format "2 January, 2006" }}</h3>
+<div style="margin: auto;">
+    <div style="position: relative;">
+        <img src="{{ .Params.featuredimg }}" alt="{{ .Title }}" style="width: 100%;margin: auto;display: block;">
+        <div class="single-blog-header-bottom">
+            <small class="single-blog-date">
+                {{ .Date.Format "2 January, 2006" }}
+            </small>
+            <p class="single-blog-title">
+                {{ .Title }}
+            </p>
+        </div>
+    </div>
 
-    <img src="{{ .Params.featuredimg }}" alt="{{ .Title }}" style="width: 50%;margin: auto;display: block;">
-
-    <div style="padding: 10px;">
+    <div style="padding: 10px; font-size: 20px; line-height: 25px; margin: 11% 24%;">
     {{ .Content }}
     </div>
 </div>
