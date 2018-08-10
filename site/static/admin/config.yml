@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+  repo: Creeact/bazeat-blog
+  branch: master
+  
+media_folder: "static/uploads"
+public_folder: "/uploads"
+collections:
+  
+  - name: "page"
+    label: "Page"
+    folder: "site/content/post"
+    create: true
+    slug: "{{slug}}"
+    type: "blog-post"
+    layout: "standard"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Image", name: "featuredimg", widget: "image" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }

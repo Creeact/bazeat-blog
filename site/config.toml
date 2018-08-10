@@ -7,3 +7,8 @@ title = "Bazeat blog"
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+  baseURL = "https://tender-joliot-0e6b69.netlify.com"
+  staticsURL = "https://bazeat.com"
+  baseSiteURL = "https://bazeat.com"

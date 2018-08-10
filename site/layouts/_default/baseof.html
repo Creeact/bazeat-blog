@@ -5,39 +5,47 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
     <title>{{ $.Site.Title }}</title>
-    <link rel="stylesheet" href="css/main.css"/>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700">
-    <link rel="stylesheet" href="css/app.css" type="text/css"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/base.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/inputs.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/buttons.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/helpers.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/index-page.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/login-page.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/register-page.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/verify-forgot-page.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/user-guide.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/overview.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/profile.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/producer-profile.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/checkout.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/search.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/orders.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/messages.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/ratings.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/style.css">
-    <link rel="stylesheet" href="https://bazeat.com/css/new-design/blog.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/base.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/inputs.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/buttons.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/helpers.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/index-page.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/login-page.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/register-page.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/verify-forgot-page.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/user-guide.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/overview.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/profile.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/producer-profile.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/checkout.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/search.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/orders.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/messages.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/ratings.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/style.css">
+    <link rel="stylesheet" href="{{ $.Site.Params.staticsURL }}/css/new-design/blog.css">
+
+    <link rel="stylesheet" href="css/main.css"/>
+    <link rel="stylesheet" href="css/app.css" type="text/css"/>
+
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAXEePmIdEIUBuAoxo7SyaNr3PCnvcsGUo&libraries=places"></script>
     <link rel="shortcut icon" type="image/png" href="../../static/images/new-design/favicon.ico"/>
   </head>
   <body>
+
+  <div id="app-container">
+    <div class="page-wrapper d-flex flex-column">
 
     {{ block "header" . }}{{ partial "header" . }}{{end}}
 
     {{ block "main" . }}{{end}}
 
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+
+    </div>
+  </div>
 
     <script src="app.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>

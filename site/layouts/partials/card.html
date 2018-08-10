@@ -1,0 +1,25 @@
+<div>
+    <small class="text-muted blog-card-horizontal-date">
+        {{ .Date.Format "January 2, 2006" }}
+    </small>
+    <div class="card mb-4 box-shadow">
+        <div class="row">
+            <div class="col-md-6 horizontal-card-image"><img
+                    src="{{ .Params.featuredimg }}" class="blog-card-horizontal-img">
+            </div>
+            <div class="col-md-6 blog-card-horizontal-container">
+                <div class="card-body">
+                <h4 class="card-title blog-card-horizontal-title">
+                    {{ .Title }}
+                </h4>
+                    <p class="card-text blog-card-horizontal-txt">{{ .Content | truncate 300 }}</p>
+                    <div>
+                    <a class="btn float-right blog-card-horizontal-btn" href="{{ .Permalink }}">
+                        Read more &gt;
+                    </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
