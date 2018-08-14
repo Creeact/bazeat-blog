@@ -1,7 +1,19 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Bazeat blog"
+DefaultContentLanguage = "en"
+baseURL = "/"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-US"
+    languageLang = "en"
+    title = "Bazeat blog"
+    weight = 0
+  [languages.no]
+    languageName = "Norwegian"
+    languageCode = "no"
+    languageLang = "no"
+    title = "Bazeat blog"
+    weight = 1
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 

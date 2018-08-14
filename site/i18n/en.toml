@@ -1,0 +1,10 @@
+[home]
+other = "Home"
+[blog]
+other = "Blog"
+[find_a_producer_near_me]
+other = "Find a producer near me"
+[sign_up]
+other = "Sign up"
+[log_in]
+other = "Log in"
