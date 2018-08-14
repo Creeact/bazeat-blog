@@ -27,7 +27,7 @@ collections:
     slug: "{{slug}}"
     extension: "no.md"
     format: "frontmatter"
-    type: "blog-post"
+    type: "blog-post-no"
     layout: "standard"
     fields:
       - { label: "Title", name: "title", widget: "string" }
