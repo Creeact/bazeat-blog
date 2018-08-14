@@ -26,6 +26,7 @@ collections:
     create: true
     slug: "{{slug}}"
     extension: "no.md"
+    format: "frontmatter"
     type: "blog-post"
     layout: "standard"
     fields:
