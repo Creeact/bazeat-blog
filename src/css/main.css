@@ -1,3 +1,7 @@
+.root-container {
+  max-width: 1400px;
+  margin: auto;
+}
 .single-blog-header {
   height: 600px;
   padding-left: 0;
