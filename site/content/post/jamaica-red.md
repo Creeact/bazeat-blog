@@ -1,29 +1,16 @@
 ---
-title: 'Jamaica title 2'
-date: 2017-01-02
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
-slug: jamaica-red
-featuredimg: "uploads/blog2.png"
+title: Jamaica title 2
+featuredimg: uploads/blog2.png
+date: 2017-01-02T00:00:00.000Z
 ---
+I meir enn 50 år har rasjonalisering og industrialisering i matproduksjonen ført til at vi mistar kontakta med menneska som produserer maten. Mykje av maten er industriprodukt  frå internasjonale konsern som vi ikkje veit noko om. Industrimaten vert  ofte sett saman av bindemiddel smakar, fargar og akkurat nok av det opphavlege, slik at produktet kan seljast som mat. Denne miksen  av syntetisk og ekte mat gjer at dei fleste av oss treng oppslagsverk for å skjøne kva som er i maten. Set vi det på spissen, kan vi seie at den kunstige maten vår like godt kunne vore laga på månen. Om ikkje anna, so vert avstanden til produsenten opplevd som ei månereise vekk frå kunden.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Heldigvis er vi i ferd med å snu. Norske forbrukarar vil vite kvar maten kjem frå. Vi vil ha ekte og ærleg mat. Med utvikling av nettplattforma Bazeat  vil gründerane Tor Kristian Stevik, Ali Vindenes Fetouni og Børre Waagan gjere det enkelt for kunden å kome i kontakt med produsenten. Med ny og smart teknologi skal Bazeat  bidra til at du lett får vite kvar maten kjem frå, kven som har laga den, kva som er i den og korleis du får maten heim til deg. Bazeat vil gjerne ha deg med på laget. Bruk knappen/linken [kontakt](https://bazeat.no/contactus) og send oss ei melding om du vil vere med som produsent, som kjøpar, om du har eit spørsmål eller vil meine noko om det vi gjer.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+STEM PÅ NORSK MAT
 
-## A little history
+Familien til Lene og Øyvind Havåg på Søre Sunnmøre (www.norgesmatfat.no) levde på norsk mat i eit år frå 1. november 2016. Gjennom eit år har Lene og Øyvind sett fokus på det ansvaret vi alle har for berekraftig kosthald med ærleg mat, reine og kortreiste råvarer som følgjer sesongane.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+I mars 2017 vart familien frå Sunnmøre tildelt Bondevettprisen frå Norges Bondelag. Ei av utfordringane dei fekk dette året var å sikre at maten dei kjøpte var norsk. Ofte vert mat med utanlandske ingrediensar marknadsført som norsk. Vi trur ikkje at Lene og Øyvind har noko imot utanlandsk mat, men poenget i denne samanheng er at når ein kjøper noko som seiast å vere norsk, so skal det vere norsk.  
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+I oppsummeringa som Lene Havåg skreiv på bloggen sin den siste månaden av året med norsk mat oppmoda ho andre til å vere med å ta eit ansvar. Ho skriv vidare at politikarar kan legge føringar og legge til rette for norsk- matproduksjon og landbruk. Lene skriv at vala vi tek i kvardagen betyr noko for andre sitt levebrød og at ved å ete norske produkt er vi med å gje ei stemme til norsk matproduksjon.
