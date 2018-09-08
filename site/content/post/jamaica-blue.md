@@ -1,6 +1,6 @@
 ---
 title: Bazeat startar på Sunnmøre
-featuredimg: uploads/blog3.png
+featuredimg: /uploads/drying+fish.jpg
 date: 2017-01-01T00:00:00.000Z
 ---
 Bazeat, nettplattforma for kjøp og sal av mat frå småprodusentar, skal prøvast ut på Sunnmøre. Dyktige produsentar er klare til å levere sine spesialitetar til gamle og nye kundar. Vi er klar for oppstart i god tid før sommaren, og dette nyheitsbrevet er ein formsmak på alt det gode som kjem.
