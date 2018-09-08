@@ -1,5 +1,5 @@
 ---
-title: Jamaica title 2
+title: Mat frå månen?
 featuredimg: uploads/blog2.png
 date: 2017-01-02T00:00:00.000Z
 ---
