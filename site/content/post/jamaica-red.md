@@ -9,7 +9,7 @@ Heldigvis er vi i ferd med å snu. Norske forbrukarar vil vite kvar maten kjem f
 
 STEM PÅ NORSK MAT
 
-Familien til Lene og Øyvind Havåg på Søre Sunnmøre (www.norgesmatfat.no) levde på norsk mat i eit år frå 1. november 2016. Gjennom eit år har Lene og Øyvind sett fokus på det ansvaret vi alle har for berekraftig kosthald med ærleg mat, reine og kortreiste råvarer som følgjer sesongane.
+[Familien til Lene og Øyvind Havåg på Søre Sunnmøre](http://www.norgesmatfat.no), levde på norsk mat i eit år frå 1. november 2016. Gjennom eit år har Lene og Øyvind sett fokus på det ansvaret vi alle har for berekraftig kosthald med ærleg mat, reine og kortreiste råvarer som følgjer sesongane.
 
 I mars 2017 vart familien frå Sunnmøre tildelt Bondevettprisen frå Norges Bondelag. Ei av utfordringane dei fekk dette året var å sikre at maten dei kjøpte var norsk. Ofte vert mat med utanlandske ingrediensar marknadsført som norsk. Vi trur ikkje at Lene og Øyvind har noko imot utanlandsk mat, men poenget i denne samanheng er at når ein kjøper noko som seiast å vere norsk, so skal det vere norsk.  
 
