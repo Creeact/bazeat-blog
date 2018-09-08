@@ -1,7 +1,7 @@
 ---
 title: Mat frå månen?
-featuredimg: uploads/blog2.png
-date: 2018-09-08T00:00:00+02:00
+featuredimg: /uploads/shutterstock_552992860.jpg
+date: 2018-09-07T22:00:00.000Z
 ---
 I meir enn 50 år har rasjonalisering og industrialisering i matproduksjonen ført til at vi mistar kontakta med menneska som produserer maten. Mykje av maten er industriprodukt  frå internasjonale konsern som vi ikkje veit noko om. Industrimaten vert  ofte sett saman av bindemiddel smakar, fargar og akkurat nok av det opphavlege, slik at produktet kan seljast som mat. Denne miksen  av syntetisk og ekte mat gjer at dei fleste av oss treng oppslagsverk for å skjøne kva som er i maten. Set vi det på spissen, kan vi seie at den kunstige maten vår like godt kunne vore laga på månen. Om ikkje anna, so vert avstanden til produsenten opplevd som ei månereise vekk frå kunden.
 
