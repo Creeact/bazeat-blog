@@ -12,7 +12,7 @@ collections:
     folder: "site/content/post/en"
     create: true
     slug: "{{slug}}"
-    extension: "en.md"
+#    extension: "en.md"
     format: "frontmatter"
     layout: "standard"
     type: "blog-post"
