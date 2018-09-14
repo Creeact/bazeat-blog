@@ -9,7 +9,7 @@ collections:
   
   - name: "post"
     label: "Post"
-    folder: "site/content/post"
+    folder: "site/content/post/en"
     create: true
     slug: "{{slug}}"
     extension: "en.md"
