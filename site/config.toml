@@ -1,13 +1,7 @@
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "no"
 baseURL = "/"
 
 [languages]
-  [languages.en]
-    languageName = "English"
-    languageCode = "en-US"
-    languageLang = "en"
-    title = "Bazeat blog"
-    weight = 0
   [languages.no]
     languageName = "Norwegian"
     languageCode = "no"
