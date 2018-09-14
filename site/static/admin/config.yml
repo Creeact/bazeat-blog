@@ -13,7 +13,7 @@ collections:
     create: true
     slug: "{{slug}}"
     extension: "en.md"
-    format: "yaml-frontmatter"
+    format: "frontmatter"
     layout: "standard"
     type: "blog-post"
     fields:
@@ -28,7 +28,7 @@ collections:
     create: true
     slug: "{{slug}}"
     extension: "no.md"
-    format: "yaml-frontmatter"
+    format: "frontmatter"
     layout: "standard"
     type: "blog-post"
     fields:
