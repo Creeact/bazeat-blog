@@ -15,6 +15,7 @@ collections:
     extension: "en.md"
     format: "frontmatter"
     layout: "standard"
+    type: "blog-post"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Image", name: "featuredimg", widget: "image" }
@@ -29,6 +30,7 @@ collections:
     extension: "no.md"
     format: "frontmatter"
     layout: "standard"
+    type: "blog-post"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Image", name: "featuredimg", widget: "image" }
