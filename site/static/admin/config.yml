@@ -7,13 +7,14 @@ media_folder: "site/static/uploads"
 public_folder: "/uploads"
 collections:
   
-  - name: "post"
-    label: "Post"
+  - name: "post-english"
+    label: "Post English"
     folder: "site/content/post/en"
     create: true
     slug: "{{slug}}"
-    type: "blog-post"
+    type: "blog-post-en"
     extension: "en.md"
+    format: "frontmatter"
     layout: "standard"
     fields:
       - { label: "Title", name: "title", widget: "string" }
