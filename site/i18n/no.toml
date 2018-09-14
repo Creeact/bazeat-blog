@@ -8,3 +8,7 @@ other = "Produsent nær meg"
 other = "Registrer deg"
 [log_in]
 other = "Logg inn"
+[prev]
+other = "Tidligere"
+[next]
+other = "Neste"

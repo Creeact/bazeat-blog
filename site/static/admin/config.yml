@@ -9,10 +9,11 @@ collections:
   
   - name: "post"
     label: "Post"
-    folder: "site/content/post"
+    folder: "site/content/post/en"
     create: true
     slug: "{{slug}}"
     type: "blog-post"
+    extension: "en.md"
     layout: "standard"
     fields:
       - { label: "Title", name: "title", widget: "string" }
@@ -22,7 +23,7 @@ collections:
 
   - name: "post-norwegian"
     label: "Post Norwegian"
-    folder: "site/content/post"
+    folder: "site/content/post/no"
     create: true
     slug: "{{slug}}"
     extension: "no.md"
