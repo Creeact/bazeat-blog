@@ -7,13 +7,13 @@ media_folder: "site/static/uploads"
 public_folder: "/uploads"
 collections:
   
-  - name: "post-english"
-    label: "Post English"
-    folder: "site/content/post/en"
+  - name: "post"
+    label: "Post"
+    folder: "site/content/post"
     create: true
     slug: "{{slug}}"
     extension: "en.md"
-    format: "frontmatter"
+    format: "yaml-frontmatter"
     layout: "standard"
     type: "blog-post"
     fields:
@@ -28,7 +28,7 @@ collections:
     create: true
     slug: "{{slug}}"
     extension: "no.md"
-    format: "frontmatter"
+    format: "yaml-frontmatter"
     layout: "standard"
     type: "blog-post"
     fields:
