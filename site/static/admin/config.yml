@@ -9,30 +9,15 @@ collections:
   
   - name: "post"
     label: "Post"
-    folder: "site/content/post/en"
+    folder: "site/content/post"
     create: true
     slug: "{{slug}}"
-#    extension: "en.md"
-    format: "frontmatter"
-    layout: "standard"
     type: "blog-post"
+    layout: "standard"
+    delete: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Image", name: "featuredimg", widget: "image" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "post-norwegian"
-    label: "Post Norwegian"
-    folder: "site/content/post/no"
-    create: true
-    slug: "{{slug}}"
-    extension: "no.md"
-    format: "frontmatter"
-    layout: "standard"
-    type: "blog-post"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Image", name: "featuredimg", widget: "image" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
