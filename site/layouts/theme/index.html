@@ -2,8 +2,7 @@
         <div class="root-container">
             <div class="container-fluid blog-header"></div>
             <div class="container blog-page-container">
-                <div class="col"><h1 class="text-center blog-page-title">Blog</h1></div>
-                {{ $paginator := .Paginate (where .Pages "Type" "post") 2}}
+                {{ $paginator := .Paginate (where .Pages "Type" "post") 3}}
                 <div>
 
                 {{ range $index,$element := $paginator.Pages }}
