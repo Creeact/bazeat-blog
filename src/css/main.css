@@ -66,8 +66,11 @@
 }
 
 .blog-header {
-  background: url('/images/new-design/blog-header.png') center;
-  height: 380px;
+  background: url('/images/new-design/blog-header2.jpg');
+  height: 560px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 .blog-card-horizontal-date {
