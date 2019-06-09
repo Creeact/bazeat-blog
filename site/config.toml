@@ -1,24 +1,19 @@
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "no"
 baseURL = "/"
 
 [languages]
-  [languages.en]
-    languageName = "English"
-    languageCode = "en-US"
-    languageLang = "en"
-    title = "Bazeat blog"
-    weight = 0
   [languages.no]
     languageName = "Norwegian"
     languageCode = "no"
     languageLang = "no"
     title = "Bazeat blog"
-    weight = 1
+    weight = 0
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["taxonomy", "taxonomyTerm"]
+disableLanguages = ["en"]
 
 [params]
   baseURL = "https://blogg.bazeat.no"

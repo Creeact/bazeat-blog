@@ -8,3 +8,7 @@ other = "Find a producer near me"
 other = "Sign up"
 [log_in]
 other = "Log in"
+[prev]
+other = "Prev"
+[next]
+other = "Next"

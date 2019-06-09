@@ -1,6 +1,6 @@
 <div>
     <small class="text-muted blog-card-horizontal-date">
-        {{ .Date.Format "January 2, 2006" }}
+        {{ .Date.Format "02/01/2006" }}
     </small>
     <div class="card mb-4 box-shadow">
         <div class="row">
@@ -15,7 +15,7 @@
                     <span class="card-text blog-card-horizontal-txt">{{ .Content | truncate 300 }}</span>
                     <div>
                     <a class="btn float-right blog-card-horizontal-btn custom-link" href="{{ .Permalink }}">
-                        Read more &gt;
+                        Les mer &gt;
                     </a>
                     </div>
                 </div>
