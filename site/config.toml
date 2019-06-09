@@ -10,12 +10,12 @@ baseURL = "/"
     weight = 0
 
 # RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
+# See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["taxonomy", "taxonomyTerm"]
 disableLanguages = ["en"]
 
 [params]
   baseURL = "https://blogg.bazeat.no"
-  staticsURL = "https://bazeat.com"
-  baseSiteURL = "https://bazeat.com"
+  staticsURL = "https://bazeat.no"
+  baseSiteURL = "https://bazeat.no"
