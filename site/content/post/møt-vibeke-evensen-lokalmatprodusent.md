@@ -3,19 +3,21 @@ title: 'Møt Vibeke Evensen '
 featuredimg: /uploads/blog1.png
 date: 2019-06-10T09:46:51.025Z
 ---
-**Namn**: Vibeke Evensen\
-**Bur**: Sykkylven\
-**Namn på bedrift** :Toregarden Naturfarm@\
-**Fartstid som produsent**: 3 år\
-**Produkter**: Svinekjøtt, egg og grønnsaker
+**Namn:** Vibeke Evensen\
+**Bur:** Sykkylven\
+**Namn på bedrift:** Toregarden Naturfarm@\
+**Fartstid som produsent:** 3 år\
+**Produkter: **Svinekjøtt, egg og grønnsaker
+
+
 
 **Hvorfor ble du lokalmatprodusent?**\
-Jeg er opptatt av kortreist, ren og naturlig mat med god kvalitet. Ønsker at denne skal være tilgjengelig for alle i nærmiljøet. Samtidig er jeg opptatt av gamle mathåndverkstradisjoner og ønsker å holde disse i hevd.
-
+Jeg er opptatt av kortreist, ren og naturlig mat med god kvalitet. Ønsker at denne skal være tilgjengelig for alle i nærmiljøet. Samtidig er jeg opptatt av gamle mathåndverkstradisjoner og ønsker å holde disse i hevd.\
+\
 \
 **Hva er det kjekkeste med å være lokalmatprodusent?**\
-Kunne treffe kundene og formidle hvordan vi driver gården, måten vi dyrker grønnsakene på og at dyrene her har det fritt og godt. Samtidig ha en god dialog - få tilbakemeldinger og innspill ifra kundene.
-
+Kunne treffe kundene og formidle hvordan vi driver gården, måten vi dyrker grønnsakene på og at dyrene her har det fritt og godt. Samtidig ha en god dialog - få tilbakemeldinger og innspill ifra kundene.\
+\
 \
 **Hva er den største utfordringen din som lokalmatptodusent?**\
 Kunne nå ut til kundene uten for mange fordyrende mellomledd. Ha en god salgsarena hvor man fortløpende blir kvitt ferskvareprodukter.
