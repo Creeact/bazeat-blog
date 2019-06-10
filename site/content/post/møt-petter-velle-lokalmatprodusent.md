@@ -3,9 +3,7 @@ title: Møt Petter Velle - Lokalmatprodusent
 featuredimg: /uploads/olav.jpg
 date: 2019-06-10T09:41:39.756Z
 ---
-**Namn**: Petter Velle
-
-\
+**Namn**: Petter Velle\
 **Bur**: Sykkylven\
 **Namn på bedrift**: Tindemat frå Jogarden\
 **Fartstid som produsent**: 13 år\
