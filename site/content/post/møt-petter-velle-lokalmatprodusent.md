@@ -1,5 +1,5 @@
 ---
-title: Møt Petter Velle - Lokalmatprodusent
+title: Møt Petter Velle
 featuredimg: /uploads/olav.jpg
 date: 2019-06-10T09:41:39.756Z
 ---
