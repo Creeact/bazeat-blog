@@ -5,7 +5,7 @@ date: 2019-06-10T09:46:51.025Z
 ---
 **Namn:** Vibeke Evensen\
 **Bur:** Sykkylven\
-**Namn på bedrift:** Toregarden Naturfarm@\
+**Namn på bedrift:** Toregarden Naturfarm\
 **Fartstid som produsent:** 3 år\
 **Produkter: **Svinekjøtt, egg og grønnsaker\
 \
