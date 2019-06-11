@@ -7,7 +7,7 @@ date: 2019-06-10T09:46:51.025Z
 **Bur:** Sykkylven\
 **Namn på bedrift:** Toregarden Naturfarm\
 **Fartstid som produsent:** 3 år\
-**Produkter: **Svinekjøtt, egg og grønnsaker\
+**Produkter:** Svinekjøtt, egg og grønnsaker \
 \
 \
 **Hvorfor ble du lokalmatprodusent?**\
