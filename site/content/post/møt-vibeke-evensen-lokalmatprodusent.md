@@ -1,6 +1,6 @@
 ---
 title: Møt Vibeke Evensen - Matprodusent
-featuredimg: /uploads/blog1.png
+featuredimg: /uploads/vibeke.jpg
 date: 2019-06-10T09:46:51.025Z
 ---
 **Namn:** Vibeke Evensen\
