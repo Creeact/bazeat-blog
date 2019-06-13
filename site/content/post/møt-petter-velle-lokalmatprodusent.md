@@ -1,6 +1,6 @@
 ---
 title: Møt Petter Velle - Matprodusent
-featuredimg: /uploads/olav.jpg
+featuredimg: /uploads/petter velle.jpg
 date: 2019-06-10T09:41:39.756Z
 ---
 **Namn**: Petter Velle\
