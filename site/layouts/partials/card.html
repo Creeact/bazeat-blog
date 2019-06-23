@@ -3,7 +3,9 @@
         {{ .Date.Format "02/01/2006" }}
     </small>
     <div class="card mb-4 box-shadow">
+      <a href="{{ .Permalink }}"
         <div class="row">
+
             <div class="col-md-6 horizontal-card-image"><img
                     src="{{ .Params.featuredimg }}" class="blog-card-horizontal-img">
             </div>
@@ -12,14 +14,15 @@
                 <h4 class="card-title blog-card-horizontal-title">
                     {{ .Title }}
                 </h4>
-                    <span class="card-text blog-card-horizontal-txt">{{ .Content | truncate 200 }}</span>
+                    <span class="card-text blog-card-horizontal-txt">{{ .Content | truncate 180px }}</span>
                     <div>
-                    <a class="btn float-right blog-card-horizontal-btn custom-link" href="{{ .Permalink }}">
+                    <a class="btn float-right blog-card-horizontal-btn custom-link" href="#"">
                         Les mer &gt;
                     </a>
                     </div>
                 </div>
             </div>
         </div>
+      </a>
     </div>
 </div>
