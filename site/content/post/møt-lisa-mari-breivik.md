@@ -1,6 +1,6 @@
 ---
 title: Møt Lisa Mari Breivik - Matprodusent
-featuredimg: /uploads/blog3.png
+featuredimg: /uploads/lisa mari - goda greier.jpg
 date: 2019-06-10T10:44:52.717Z
 ---
 **Namn**: Lisa Mari Breivik Anderson\
