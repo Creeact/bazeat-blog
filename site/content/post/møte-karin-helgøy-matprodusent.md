@@ -1,5 +1,5 @@
 ---
-title: Møte Karin Helgøy - Matprodusent
+title: Møt Karin Helgøy - Matprodusent
 featuredimg: /uploads/karin.jpg
 date: 2019-06-19T08:56:30.153Z
 ---
