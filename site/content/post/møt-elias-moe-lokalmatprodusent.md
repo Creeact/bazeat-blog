@@ -1,5 +1,5 @@
 ---
-title: Møt Elias Moe - Lokalmatprodusent
+title: Møt Elias Moe - Matprodusent
 featuredimg: /uploads/elias moe.jpeg
 date: 2019-08-04T10:22:35.655Z
 ---
