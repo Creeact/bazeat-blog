@@ -1,28 +1,28 @@
 <div>
-    <small class="text-muted blog-card-horizontal-date">
-        {{ .Date.Format "02/01/2006" }}
-    </small>
-    <div class="card mb-4 box-shadow">
-      <a href="{{ .Permalink }}"
-        <div class="row">
+  <small class="text-muted blog-card-horizontal-date">
+    {{ .Date.Format "02/01/2006" }}
+  </small>
+  <div class="card mb-4 box-shadow">
+    <a href="{{ .Permalink }}">
+      <div class="row">
 
-            <div class="col-md-6 horizontal-card-image"><img
-                    src="{{ .Params.featuredimg }}" class="blog-card-horizontal-img">
-            </div>
-            <div class="col-md-6 blog-card-horizontal-container">
-                <div class="card-body">
-                <h4 class="card-title blog-card-horizontal-title">
-                    {{ .Title }}
-                </h4>
-                    <span class="card-text blog-card-horizontal-txt">{{ .Content | truncate 180px }}</span>
-                    <div>
-                    <a class="btn float-right blog-card-horizontal-btn custom-link" href="#"">
-                        Les mer &gt;
-                    </a>
-                    </div>
-                </div>
-            </div>
+        <div class="col-md-6 horizontal-card-image"><img
+          src="{{ .Params.featuredimg }}" class="blog-card-horizontal-img">
         </div>
-      </a>
-    </div>
+        <div class="col-md-6 blog-card-horizontal-container">
+          <div class="card-body">
+            <h4 class="card-title blog-card-horizontal-title">
+              {{ .Title }}
+            </h4>
+            <span class="card-text blog-card-horizontal-txt">{{ .Content | truncate 180px }}</span>
+            <div>
+              <a class="btn float-right blog-card-horizontal-btn custom-link" href="#">
+                Les mer
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
 </div>
