@@ -1,6 +1,6 @@
 ---
 title: Møt Elias Moe - Matprodusent
-featuredimg: /uploads/elias moe.jpeg
+featuredimg: /uploads/elias.jpg
 date: 2019-08-04T10:22:35.655Z
 ---
 **Navn**: Elias Moe\
